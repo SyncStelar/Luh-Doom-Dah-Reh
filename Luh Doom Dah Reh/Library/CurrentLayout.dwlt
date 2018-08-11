@@ -20,8 +20,13 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootView: {fileID: 7}
   m_MinSize: {x: 950, y: 542}
+=======
+  m_RootView: {fileID: 8}
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
 =======
   m_RootView: {fileID: 8}
   m_MinSize: {x: 950, y: 300}
@@ -77,9 +82,12 @@ MonoBehaviour:
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 72
 --- !u!114 &4
 =======
+=======
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
   controlID: 16
 --- !u!114 &5
 >>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
@@ -105,9 +113,12 @@ MonoBehaviour:
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 69
 --- !u!114 &5
 =======
+=======
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
   controlID: 104
 --- !u!114 &6
 >>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
@@ -163,9 +174,12 @@ MonoBehaviour:
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 71
 --- !u!114 &7
 =======
+=======
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
   controlID: 40
 --- !u!114 &8
 >>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
@@ -195,6 +209,9 @@ MonoBehaviour:
     width: 1366
     height: 685
   m_MinSize: {x: 950, y: 300}
+<<<<<<< HEAD
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
+=======
 >>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &8
@@ -262,9 +279,12 @@ MonoBehaviour:
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 70
 --- !u!114 &11
 =======
+=======
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
   controlID: 105
 --- !u!114 &12
 >>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
@@ -871,7 +891,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 18e6feff303bffff3e76ffff308dffff98a4ffffbcfaffff00000000
+=======
+    m_ExpandedIDs: e6fbffff00000000
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
 =======
     m_ExpandedIDs: e6fbffff00000000
 >>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
@@ -1074,17 +1098,23 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
   - Assets
 =======
+=======
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
     - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
   - Assets/Scripts
+<<<<<<< HEAD
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
+=======
 >>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\balra\OneDrive\Documents\GitHub\Luh-Doom-Dah-Reh\Luh
@@ -1094,9 +1124,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: e42a0000
     m_LastClickedID: 10980
     m_ExpandedIDs: 00000000e42a0000cc340000e8360000f436000000ca9a3b
+=======
+    m_SelectedIDs: 5a2a0000
+    m_LastClickedID: 10842
+    m_ExpandedIDs: 00000000e229000000ca9a3b
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
 =======
     m_SelectedIDs: 5a2a0000
     m_LastClickedID: 10842
@@ -1130,7 +1166,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000e42a0000
+=======
+    m_ExpandedIDs: 00000000e2290000
+>>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
 =======
     m_ExpandedIDs: 00000000e2290000
 >>>>>>> 0809c34646385ed6f3b9f4b9c909b596ab5e849f
